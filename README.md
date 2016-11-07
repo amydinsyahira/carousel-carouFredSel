@@ -1,0 +1,1 @@
+# carouFredSel - responsive JQuery carousel 
